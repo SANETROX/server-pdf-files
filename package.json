@@ -1,0 +1,19 @@
+{
+  "name": "server-files-pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tables.js",
+  "scripts": {
+    "dev": "nodemon table.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1064.0",
+    "dotenv": "^14.3.2",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15",
+    "pdfmake": "^0.2.4"
+  }
+}
